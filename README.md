@@ -1,2 +1,2 @@
 # featureCsignal
-For explainability of simple feed forward neural networks 
+Explainability for simple feed forward neural networks 
